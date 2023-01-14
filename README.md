@@ -5,8 +5,8 @@ hey! I'm Fischer
 - pronouns: she/her
 <div>
   <a href="https://github.com/fischerxp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fischerxp&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischerxp&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=fischerxp&show_icons=true&theme=radical"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischerxp&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
