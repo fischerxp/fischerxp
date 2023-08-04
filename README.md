@@ -2,7 +2,7 @@ hey! I'm Fischer
 
 - working on front-end and back-end
 - studying node.js and C#
-- -database: mongoDB and MySQL
+- database: mongoDB and MySQL
 - pronouns: she/her
 <div>
   <a href="https://github.com/fischerxp">
