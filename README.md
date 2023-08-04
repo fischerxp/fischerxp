@@ -6,7 +6,7 @@ hey! I'm Fischer
 - pronouns: she/her
 <div>
   <a href="https://github.com/fischerxp">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=fischerxp&show_icons=true&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=fischerxp&show_icons=true&theme=dark"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischerxp&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
